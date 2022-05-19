@@ -266,44 +266,44 @@ footer p {
 @media (max-width: 768px) {
 
 .box {
-  height: 85vw;
-  width: 50vw;
-  border: 3.8vw solid hsl(216, 50%, 16%);
+  height: 94vw;
+  width: 58vw;
+  border: 5.8vw solid hsl(216, 50%, 16%);
 
 }
 
 .box-img { 
-  height: 46vw;
+  height: 45vw;
   margin-bottom: 0.5rem;
 }
 
 
 .img-nft {
-  width: 46vw;
+  width: 67vw;
   
 }
 
 
 .equilibrium {
-  width: 43vw;
-  height: 44vw;
+  width: 47vw;
+  height: 46vw;
 }
 
 
 .img-hidden {
-  height: 44vw;
-  width: 44vw;
+  height: 50vw;
+  width: 67vw;
 }
 
 
 .box h1 {
-font-size: 3.8vw;
-padding-top: 0px;
+font-size: 5.0vw;
+padding-top: 2vw;
 }
 
 
 .box h2 { 
-  font-size: 2.4vw;
+  font-size: 2.8vw;
 }
 
 .info { 
@@ -312,7 +312,7 @@ padding-top: 0px;
 }
 
 .box .info p {
-  font-size: 2.0vw;
+  font-size: 1.9vw;
 }
 
 div .line { 
@@ -331,7 +331,6 @@ font-size: 2.0vw;
 }
 
 }
-
 
 @media (max-width: 351px) { 
 
