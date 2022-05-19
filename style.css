@@ -314,6 +314,10 @@ padding-top: 2vw;
 .box .info p {
   font-size: 1.9vw;
 }
+  
+  .value { 
+  padding-right: 22vw;
+  }
 
 div .line { 
   padding: 3vw 0;
@@ -401,10 +405,7 @@ font-size: 2.0vw;
 
 }
 
-@media (max-width: 530px) { 
-  body {
-  background-color : black ;
-  }
+
   
 
-  }
+
