@@ -266,44 +266,44 @@ footer p {
 @media (max-width: 768px) {
 
 .box {
-  height: 105vw;
-  width: 70vw;
+  height: 94vw;
+  width: 58vw;
   border: 5.8vw solid hsl(216, 50%, 16%);
 
 }
 
 .box-img { 
-  height: 48vw;
+  height: 45vw;
   margin-bottom: 0.5rem;
 }
 
 
 .img-nft {
-  width: 72vw;
+  width: 67vw;
   
 }
 
 
 .equilibrium {
-  width: 63vw;
-  height: 52vw;
+  width: 47vw;
+  height: 46vw;
 }
 
 
 .img-hidden {
- height: 52vw;
- width: 62vw;
+  height: 50vw;
+  width: 67vw;
 }
 
 
 .box h1 {
-font-size: 6.0vw;
+font-size: 5.0vw;
 padding-top: 2vw;
 }
 
 
 .box h2 { 
-  font-size: 3.4vw;
+  font-size: 2.8vw;
 }
 
 .info { 
@@ -312,22 +312,22 @@ padding-top: 2vw;
 }
 
 .box .info p {
-  font-size: 2.9vw;
+  font-size: 1.9vw;
 }
 
 div .line { 
-  padding: 5vw 0;
+  padding: 3vw 0;
 }
 
 .avatar img {
   border: 1px solid white;
   border-radius: 15px;
-  width: 7%;
+  width: 8%;
 }
 
 
 .avatar p {
-font-size: 3.0vw;
+font-size: 2.0vw;
 }
 
 }
