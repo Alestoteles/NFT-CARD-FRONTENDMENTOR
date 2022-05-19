@@ -400,6 +400,12 @@ font-size: 2.0vw;
   font-size: 3.0vw;
   }
 
-
-
 }
+
+@media (max-width: 500px) { 
+  body {
+  background-color : black ;
+  }
+  
+
+  }
